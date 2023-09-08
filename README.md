@@ -1,1 +1,1 @@
-permalink: /website.html
+permalink: /README.html
